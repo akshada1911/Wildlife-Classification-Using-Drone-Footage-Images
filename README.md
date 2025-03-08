@@ -1,5 +1,4 @@
-# Wildlife-Classification-Using-Drone-Footage-Images
-# Wildlife Detection Using Drone Footage & YOLOv9  
+# Wildlife-Classification-Using-Drone-Footage-Images 
 
 This project leverages drone technology and the YOLOv9 object detection model for **real-time wildlife monitoring**, ensuring **accurate species detection** with minimal human intervention. **Data augmentation** techniques enhance model performance, leading to improved **precision and recall**, making this system a scalable and efficient tool for wildlife conservation.  
 
