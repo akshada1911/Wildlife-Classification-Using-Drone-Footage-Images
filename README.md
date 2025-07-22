@@ -13,7 +13,7 @@ This project leverages drone technology and the YOLOv9 object detection model fo
 - [Conclusion](#conclusion)  
 
 ## Introduction  
-Wildlife conservation is a critical global challenge, yet **traditional monitoring methods** are inefficient, labor-intensive, and prone to errors. This project **automates wildlife monitoring** using **drones** equipped with **YOLOv9**, a state-of-the-art object detection model. By providing **real-time, accurate, and noninvasive monitoring**, this system significantly enhances conservation efforts while minimizing human interference.  
+Wildlife conservation is a critical global challenge, yet **traditional monitoring methods** are inefficient, labor-intensive, and prone to errors. This project **automates wildlife monitoring** using **drone footage based images** equipped with **YOLOv9**, a state-of-the-art object detection model. By providing **real-time, accurate, and noninvasive monitoring**, this system significantly enhances conservation efforts while minimizing human interference.  
 
 ---
 
@@ -47,7 +47,7 @@ This project aims to **overcome these challenges** by leveraging deep learning a
   - Cattle
   - Elephant
   - Seal
-  - Kiang
+
 
 ### 📌 Model Selection: YOLOv9  
 - **Speed & Precision**: Optimized for **real-time** applications  
